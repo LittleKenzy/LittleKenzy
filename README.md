@@ -12,6 +12,6 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LittleKenzy&theme=react-dark)
-
 ![bro's github stats](https://github-readme-stats.vercel.app/api?username=LittleKenzy&show_icons=true&theme=algolia)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LittleKenzy&theme=react-dark)

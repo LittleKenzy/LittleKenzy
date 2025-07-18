@@ -63,7 +63,7 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.instagram.com/litlekenzy_store" target="_blank">
+  <a href="https://www.instagram.com/littlekenzy_store/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-0cc66a?style=flat-square&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@litlekenzy" target="_blank">

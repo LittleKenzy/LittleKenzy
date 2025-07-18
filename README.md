@@ -63,12 +63,13 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://instagram.com/littlekenzy" target="_blank">
+  <a href="https://www.instagram.com/litlekenzy_store" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-0cc66a?style=flat-square&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:littlekenzy@email.com">
-    <img src="https://img.shields.io/badge/-Email-0cc66a?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://www.youtube.com/@litlekenzy" target="_blank">
+  <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+</a>
+
 </p>
 
 <!-- Footer -->

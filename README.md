@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0cc66a&height=200&section=header&text=Welcome%20to%20LittleKenzy's%20Hub!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <!-- Intro -->
-<h2 align="center">Hi there 👋, I'm <span style="color:#0cc66a">LittleKenzy</span></h2>
+<h2 align="center">Hi there 👋, I'm <span style="color:#0cc66a">Little Kenzy</span></h2>
 <p align="center">🌱 Passionate Fullstack Developer | 🔥 Code & Coffee Lover | 🇮🇩 Indonesia</p>
 
 ---

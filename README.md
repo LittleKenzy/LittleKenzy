@@ -16,3 +16,5 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LittleKenzy&theme=react-dark)
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+

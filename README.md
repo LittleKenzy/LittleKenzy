@@ -71,11 +71,5 @@
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LittleKenzy&label=Profile%20Views&color=0cc66a&style=flat" alt="LittleKenzy" />
-</p>
-
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0cc66a&height=120&section=footer" />

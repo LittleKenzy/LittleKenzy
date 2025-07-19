@@ -3,7 +3,7 @@
 
 <!-- Intro -->
 <h2 align="center">Hi there 👋, I'm <span style="color:#0cc66a">Little Kenzy</span></h2>
-<p align="center">🌱 Passionate Fullstack Developer | 🔥 Code & Coffee Lover | 🇮🇩 Indonesia</p>
+<p align="center">🌱 Fullstack Developer | 🔥 Code & Coffee Lover | 🇮🇩 Indonesia</p>
 
 ---
 

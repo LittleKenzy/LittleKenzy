@@ -24,14 +24,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg" alt="CodeIgniter" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-  <!-- PostgreSQL -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="40" height="40" />
   <!-- Docker -->
   <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" width="40" height="40" />
   <!-- YAML -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/YAML_logo.svg" alt="YAML" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/yaml.svg" alt="YAML" width="40" height="40" />
   <!-- Prisma -->
-  <img src="https://raw.githubusercontent.com/prisma/prisma/master/docs/prisma-logo-light.svg" alt="Prisma" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/prisma.svg" alt="Prisma" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/livewire/livewire-original.svg" alt="Livewire Logo" width="40" height="40"/>
 </p>
 
